@@ -19,3 +19,12 @@ body{
   
 }
 /*inherit text properties*/
+button:hover{
+  cursor:pointer;
+  opacity: 0.8;
+
+}
+
+button:active{
+  opacity: 0.5;
+}
